@@ -1,0 +1,18 @@
+{
+  "name": "GreenBoy",
+  "displayName": "GreenBoy",
+  "description": "A green theme for aseprite with light and dark variations.",
+  "version": "1.0",
+  "author": { "name": "green guy", "email": "witchdoctor.music58@gmail.com", "url": "http://2058.itch.io/" },
+  "publisher": "Green Guy",
+  "license": "N/A",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Green", "path": ".", "variant": "Light" },
+      { "id": "Dark green", "path": "./dark", "variant": "Dark" }
+    ]
+  }
+}
